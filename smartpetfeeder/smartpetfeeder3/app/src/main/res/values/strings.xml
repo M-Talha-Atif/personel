@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">smartpetfeeder</string>
+    <string name="feeding_history_trends">Feeding History Trends</string>
+    <string name="tab_layout_description">Tabs for viewing feeding trends</string>
+    <string name="trend_title_description">Title of feeding trends for a specific time period</string>
+    <string name="trend_summary_description">Summary of feeding trends data</string>
+    <string name="daily_trends">Daily Trends</string>
+    <string name="weekly_trends">Weekly Trends</string>
+    <string name="monthly_trends">Monthly Trends</string>
+    <string name="tab_daily">Daily</string>
+    <string name="tab_weekly">Weekly</string>
+    <string name="tab_monthly">Monthly</string>
+</resources>
